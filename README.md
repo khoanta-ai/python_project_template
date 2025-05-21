@@ -9,7 +9,7 @@ Dự án này minh họa cấu trúc thư mục tiêu chuẩn cho một dự án
 - `docs/`: Tài liệu hướng dẫn
 - `resources/`: Tài nguyên (dữ liệu, template, ...)
 
-## Ví dụ cực đơn giản
+## Ví dụ đơn giản
 
 ```python
 # src/calc.py
